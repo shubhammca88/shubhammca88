@@ -35,5 +35,5 @@ With over 3 years of hands-on experience in both onsite and remote roles, I spec
 
 ## 🤝 Let's Connect!
 
-- **LinkedIn:** [Shubham](https://www.linkedin.com/in/shubhammca8/)
+- **LinkedIn:** [Shubham](https://www.linkedin.com/in/shubhammca88/)
 
