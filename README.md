@@ -4,18 +4,6 @@
 
 With over 3 years of hands-on experience in both onsite and remote roles, Passionate about automating infrastructure and streamlining deployments. I share projects on cloud architecture, Infrastructure as Code, containerization, and CI/CD pipelines. Exploring ways to improve scalability, reliability, and developer workflows.
 
-*📂 Featured Projects:*
-
-- AWS Infrastructure with Terraform
-
-- Dockerized Jenkins on EC2
-
-- Serverless REST API with AWS Lambda
-
-- CI/CD with GitHub Actions + Jenkins
-
-- Static Website Hosting on S3
-
 
 ## 🔧 Areas of Expertise:
 
