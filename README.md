@@ -17,9 +17,6 @@ With over 3 years of hands-on experience in both onsite and remote roles, Passio
 - Static Website Hosting on S3
 
 
-
----
-
 ## 🔧 Areas of Expertise:
 
 - Cloud Infrastructure (AWS: EC2, S3, RDS, Lambda, EKS, ECS)
@@ -38,7 +35,6 @@ With over 3 years of hands-on experience in both onsite and remote roles, Passio
 
 - Version Control (Git, GitHub)
 
----
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
@@ -55,7 +51,6 @@ With over 3 years of hands-on experience in both onsite and remote roles, Passio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="80" height="80"/>
 </p>
 
----
 
 ## 🤝 Let's Connect!
 
