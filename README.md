@@ -1,20 +1,44 @@
 # Shubham 🇮🇳
 
-**Developer & DevOps Engineer**
+**💻 DevOps Engineer | AWS | Terraform | Docker | CI/CD | Kubernetes**
 
-With over 3 years of hands-on experience in both onsite and remote roles, I specialize in building robust, production-ready applications. My passion lies in cloud-native development, automation, and leveraging modern DevOps practices to deliver scalable solutions. I excel in Python and Django, and thrive in dynamic, cloud-based environments.
+With over 3 years of hands-on experience in both onsite and remote roles, Passionate about automating infrastructure and streamlining deployments. I share projects on cloud architecture, Infrastructure as Code, containerization, and CI/CD pipelines. Exploring ways to improve scalability, reliability, and developer workflows.
+
+*📂 Featured Projects:*
+
+- AWS Infrastructure with Terraform
+
+- Dockerized Jenkins on EC2
+
+- Serverless REST API with AWS Lambda
+
+- CI/CD with GitHub Actions + Jenkins
+
+- Static Website Hosting on S3
+
+
 
 ---
 
-## 🚀 Areas of Expertise
+## 🔧 Areas of Expertise:
 
-- **Cloud Platforms:** AWS, Azure, Kubernetes
-- **DevOps & Automation:** Docker, Terraform, Nginx, GitHub Actions, Git, Linux, Bash
-- **Web Development:** Python, Django, HTML & CSS
+- Cloud Infrastructure (AWS: EC2, S3, RDS, Lambda, EKS, ECS)
+
+- Infrastructure as Code (Terraform)
+
+- Containerization & Orchestration (Docker, Kubernetes)
+
+- CI/CD Pipelines (Jenkins, GitHub Actions)
+
+- Monitoring & Logging (CloudWatch)
+
+- Scripting (Bash, Python)
+
+- Web Servers (Nginx)
+
+- Version Control (Git, GitHub)
 
 ---
-
-## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
