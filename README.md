@@ -1,46 +1,68 @@
-# Shubham 🇮🇳
+<div align="center">
 
-**💻 DevOps Engineer | AWS | Terraform | Docker | CI/CD | Kubernetes**
+# 👋 Hey, I'm Shubham
 
-With over 3 years of hands-on experience in both onsite and remote roles, Passionate about automating infrastructure and streamlining deployments. I share projects on cloud architecture, Infrastructure as Code, containerization, and CI/CD pipelines. Exploring ways to improve scalability, reliability, and developer workflows.
+**DevOps Engineer | Building Modern Cloud Infrastructure**
 
+[![Available for Work](https://img.shields.io/badge/Status-Available-brightgreen?style=flat-square)](https://shubhamops.in)
 
-## 🔧 Areas of Expertise:
+</div>
 
-- Cloud Infrastructure (AWS: EC2, S3, RDS, Lambda, EKS, ECS)
+## What I Do
 
-- Infrastructure as Code (Terraform)
+I automate infrastructure and build scalable cloud solutions. **3+ years** of experience helping businesses deploy faster and more reliably.
 
-- Containerization & Orchestration (Docker, Kubernetes)
+## Tech Stack
 
-- CI/CD Pipelines (Jenkins, GitHub Actions)
+<div align="center">
 
-- Monitoring & Logging (CloudWatch)
+<img src="./icons/AWS.svg" alt="AWS" width="60" height="60"/>
+<img src="./icons/terraform.svg" alt="Terraform" width="60" height="60"/>
+<img src="./icons/Docker.svg" alt="Docker" width="60" height="60"/>
+<img src="./icons/kubernetes.svg" alt="Kubernetes" width="60" height="60"/>
+<img src="./icons/GitHub Actions.svg" alt="GitHub Actions" width="60" height="60"/>
+<img src="./icons/Jenkins.svg" alt="Jenkins" width="60" height="60"/>
+<img src="./icons/Ansible.svg" alt="Ansible" width="60" height="60"/>
+<img src="./icons/Linux.svg" alt="Linux" width="60" height="60"/>
 
-- Scripting (Bash, Python)
+</div>
 
-- Web Servers (Nginx)
+## Impact
 
-- Version Control (Git, GitHub)
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/60%25-Faster_Deployments-4CAF50?style=for-the-badge" alt="Faster Deployments"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/25%25-Lower_Costs-2196F3?style=for-the-badge" alt="Lower Costs"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/40%25-Better_Scalability-FF9800?style=for-the-badge" alt="Better Scalability"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="80" height="80"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="80" height="80"/>
-</p>
+</div>
 
+<div align="center">
 
-## 🤝 Let's Connect!
+<img src="https://github.com/shubhammca88.png" alt="Shubham" width="80" height="80" style="border-radius: 50%;"/>
 
-- **LinkedIn:** [Shubham](https://www.linkedin.com/in/shubhammca88/)
+<br/><br/>
 
+<a href="https://github.com/shubhammca88" target="_blank">
+  <img src="./icons/github.svg" alt="GitHub" width="32" height="32"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shubhammca88" target="_blank">
+  <img src="./icons/linkedin.svg" alt="LinkedIn" width="32" height="32"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://shubhamops.in" target="_blank">
+  <img src="./icons/website.svg" alt="Portfolio" width="32" height="32"/>
+</a>
+
+</div>
