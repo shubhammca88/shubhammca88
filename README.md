@@ -10,7 +10,7 @@
 
 ## What I Do
 
-I automate infrastructure and build scalable cloud solutions. **3+ years** of experience helping businesses deploy faster and more reliably.
+I automate infrastructure and build scalable cloud solutions. I help businesses deploy faster and more reliably.
 
 #### My Stack
 
@@ -25,4 +25,12 @@ I automate infrastructure and build scalable cloud solutions. **3+ years** of ex
 <img src="./icons/Ansible.svg" alt="Ansible" width="60" height="60"/>
 <img src="./icons/Linux.svg" alt="Linux" width="60" height="60"/>
 
+<sub>⭐ Star my repositories if you find them useful!</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Made with ❤️ by <a href="https://shubhamops.in">Shubham</a></sub>
 </div>
