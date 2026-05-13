@@ -29,8 +29,6 @@ I automate infrastructure and build scalable cloud solutions. I help businesses 
 
 </div>
 
-<br/>
-
 <div align="center">
 <sub>Made with ❤️ by <a href="https://shubhamops.in">Shubham</a></sub>
 </div>
